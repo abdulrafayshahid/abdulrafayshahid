@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulrafayshahid
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently studying BSCS
 - 💞️ I’m looking to collaborate on any Web Development related Projects!
 - 📫 How to reach me +92 3102214648
 
